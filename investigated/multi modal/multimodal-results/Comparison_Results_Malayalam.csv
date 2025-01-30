@@ -1,0 +1,5 @@
+Text Model,Image Model,Language,Precision,Recall,F1-Score
+XLM-R,VGG16,malayalam,0.9016,0.7051,0.7914
+XLM-R,Swin,malayalam,0.8312,0.8205,0.8258
+SVM,Swin,malayalam,0.6239,0.8718,0.7273
+SVM,VGG16,malayalam,0.6477,0.7308,0.6867

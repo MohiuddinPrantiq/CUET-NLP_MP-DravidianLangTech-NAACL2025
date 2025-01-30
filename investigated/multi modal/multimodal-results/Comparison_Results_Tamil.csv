@@ -1,0 +1,5 @@
+Text Model,Image Model,Language,Precision,Recall,F1-Score
+SVM,ResNet50,tamil,0.3000,0.9438,0.4553
+SVM,Swin,tamil,0.3020,0.6854,0.4192
+mBERT,ResNet50,tamil,0.6596,0.6966,0.6776
+mBERT,Swin,tamil,0.7463,0.5618,0.6410

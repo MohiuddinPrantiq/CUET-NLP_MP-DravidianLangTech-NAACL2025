@@ -2,7 +2,7 @@
 
 ![Competition Rank](https://img.shields.io/badge/Rank-6th-blue)  
 ![Languages](https://img.shields.io/badge/Languages-Tamil%20%7C%20Malayalam-orange)  
-![Models](https://img.shields.io/badge/Models-IndicBERT%20%7C%20ViT-Base-Patch16-224-green)
+![Models](https://img.shields.io/badge/Models-IndicBERT%20%7C%20ViT-green)
 
 ## 📌 Overview  
 This repository contains all the code and datasets used in the **DravidianLangTech@NAACL 2025** shared task on **misogyny meme detection**. Our approach secured **6th place** in both **Tamil** and **Malayalam** meme classification.  
